@@ -1,0 +1,10 @@
+{
+    "python.defaultInterpreterPath": "C:/Users/Haris Khan/Desktop/medihelp/backend_fastapi/venv/Scripts/python.exe",
+    "python.venvPath": "C:/Users/Haris Khan/Desktop/medihelp/backend_fastapi/venv",
+    "python.analysis.extraPaths": [
+        "C:/Users/Haris Khan/Desktop/medihelp/backend_fastapi/venv/Lib/site-packages"
+    ],
+    "python.analysis.typeCheckingMode": "off",
+    "python.analysis.diagnosticMode": "workspace",
+    "python.languageServer": "Pylance"
+}
